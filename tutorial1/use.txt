@@ -1,0 +1,9 @@
+
+
+The demo links were moved here btw: https://demo.seleniumeasy.com/jquery-download-progress-bar-demo.html
+ https://demo.seleniumeasy.com/
+
+ keys
+ find element by class, id
+ find element by css selectors 
+context managers
